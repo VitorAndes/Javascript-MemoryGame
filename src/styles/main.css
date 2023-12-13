@@ -84,6 +84,7 @@ body{
     transform: rotateY(180deg);
     animation: op .5s ease-in-out;
     transition:all .6s;
+    cursor: pointer;
 }
 
 .item::after{
